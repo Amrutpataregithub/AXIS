@@ -1,0 +1,4 @@
+order_id,customer_id,product,category,price,quantity,order_date
+101,1,Mobile,Electronics,20000,1,2024-01-01
+102,2,Laptop,Electronics,50000,1,2024-01-02
+103,1,Book,Education,500,2,2024-01-03
